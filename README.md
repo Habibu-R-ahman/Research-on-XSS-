@@ -8,7 +8,7 @@ PDF: [Download]()
 **Summary**:  This project work utilized five phases cross-site scripting payloads and Benign user inputs extraction, feature engineering, generation of datasets, deep learning modeling, and classification filter for Malicious cross-site scripting queries. A web application was then developed with the deep learning model embedded on the backend and hosted on the cloud. In this work, a model was developed to detect cross-site scripting attacks using multi-layer perceptron deep learning model, after a comparative analysis of its performance in contrast to three other deep learning models deep belief network, ensemble, and long short-term memory. A multi-layer perceptron based performance evaluation of the proposed model obtained an accuracy of 99.47%, which shows a high level of accuracy in detecting cross-site scripting attacks.
 
 3. **DeepXSS: Cross Site Scripting Detection Based on Deep Learning**
-DOI: 10.1145/3194452.3194469
+__DOI: 10.1145/3194452.3194469__
 Cited By: 31
 PDF: [Download]()
 **Summary**: In this paper, we present a novel approach to detect XSS attacks based on deep learning (called DeepXSS). First of all, we used word2vec to extract the feature of XSS payloads which captures word order information and map each payload to a feature vector. And then, we trained and tested the detection model using Long Short Term Memory (LSTM) recurrent neural networks. Experimental results show that the proposed XSS detection model based on deep learning achieves a precision rate of 99.5% and a recall rate of 97.9% in real dataset, which means that the novel approach can effectively identify XSS attacks
