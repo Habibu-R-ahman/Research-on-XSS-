@@ -329,7 +329,7 @@
 ### 3. Noxes: A client-side solution for mitigating cross-site scripting attacks
 - DOI: https://doi.org/10.1145/1141277.1141357
 - Cited By: 291
-- PDF: [Download]()
+- PDF: [Download](https://github.com/Habibu-R-ahman/Reseach-on-XSS-/blob/main/PDF/Noxes.pdf)
 - <details>
   <summary>Summary</summary>
   <p>This paper presents Noxes, which is, to the best of our knowledge, the first client-side solution to miti- gate cross-site scripting attacks. Noxes acts as a web proxy and uses both manual and automatically generated rules to mitigate possible cross-site scripting attempts. Noxes effec- tively protects against information leakage from the user's environment while requiring minimal user interaction and customization effort.</p>
