@@ -1,3 +1,5 @@
+## Contents
+
 - [An implementation of real-time detection of cross-site scripting attacks on cloud-based web applications using deep learning](#intro1)
 - [DeepXSS: Cross Site Scripting Detection Based on Deep Learning](#intro2) 
 - [Statically Identifying XSS using Deep Learning](#intro3)
@@ -37,7 +39,7 @@
 ### 1. An implementation of real-time detection of cross-site scripting attacks on cloud-based web applications using deep learning
 - DOI: https://doi.org/10.11591/eei.v10i5.3168
 - Cited by: 1
-- PDF: [Download]()
+- PDF: [Download](https://github.com/Habibu-R-ahman/Reseach-on-XSS-/raw/main/PDF/1-detection-of-xss-attacks-in-web-applications-a-machine-learning-approach.pdf)
 - <details>
   <summary>Summary</summary>
   <p>This project work utilized five phases cross-site scripting payloads and Benign user inputs extraction, feature engineering, generation of datasets, deep learning modeling, and classification filter for Malicious cross-site scripting queries. A web application was then developed with the deep learning model embedded on the backend and hosted on the cloud. In this work, a model was developed to detect cross-site scripting attacks using multi-layer perceptron deep learning model, after a comparative analysis of its performance in contrast to three other deep learning models deep belief network, ensemble, and long short-term memory. A multi-layer perceptron based performance evaluation of the proposed model obtained an accuracy of 99.47%, which shows a high level of accuracy in detecting cross-site scripting attacks.</p>
@@ -154,7 +156,8 @@
   <summary>Summary</summary>
   <p>In this research, a robust artificial neural network-based multilayer perceptron (MLP) scheme integrated with the dynamic feature extractor is proposed for XSS attack detection. The detection scheme adopts a large real-world dataset, the dynamic features extraction mechanism, and MLP model, which successfully surpassed several tests on an employed unique dataset under careful experimentation, and achieved promising and state-of-the-art results with accuracy, detection probabilities, false positive rate, and AUC-ROC scores of 99.32%, 98.35%, 0.3%, and 90.02% respectively. Therefore, it has the potentials to be applied for XSS based attack detection in either the client-side or the server-side.</p>
   </details> 
-
+  
+<a name="intro13"></a>
 ## MACHINE LEARNING METHODS
 
 <a name="intro14"></a>
@@ -298,6 +301,7 @@
   <p>In this paper, we present a method based on reinforcement learning (called RLXSS), which aims to optimize the XSS detection model to defend against adversarial attacks. First, the adversarial samples of the detection model are mined by the adversarial attack model based on reinforcement learning. Secondly, the detection model and the adversarial model are alternately trained. After each round, the newly-excavated adversarial samples are marked as a malicious sample and are used to retrain the detection model. Experimental results show that the proposed RLXSS model can successfully mine adversarial samples that escape black-box and white-box detection and retain aggressive features. What is more, by alternately training the detection model and the confrontation attack model, the escape rate of the detection model is continuously reduced, which indicates that the model can improve the ability of the detection model to defend against attacks.</p>
   </details> 
 
+<a name="intro28"></a>
 ## Out of Context But Worth Reading
 
 <a name="intro29"></a>
