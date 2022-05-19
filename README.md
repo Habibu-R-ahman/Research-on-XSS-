@@ -39,7 +39,7 @@
 ### 1. An implementation of real-time detection of cross-site scripting attacks on cloud-based web applications using deep learning
 - DOI: https://doi.org/10.11591/eei.v10i5.3168
 - Cited by: 1
-- PDF: [Download](https://github.com/Habibu-R-ahman/Reseach-on-XSS-/blob/main/PDF/An_implementation_of_real-time_detection_of_cross-.pdf)
+- PDF: [Download](https://github.com/Habibu-R-ahman/Reseach-on-XSS-/blob/main/PDF/an.pdf)
 - <details>
   <summary>Summary</summary>
   <p>This project work utilized five phases cross-site scripting payloads and Benign user inputs extraction, feature engineering, generation of datasets, deep learning modeling, and classification filter for Malicious cross-site scripting queries. A web application was then developed with the deep learning model embedded on the backend and hosted on the cloud. In this work, a model was developed to detect cross-site scripting attacks using multi-layer perceptron deep learning model, after a comparative analysis of its performance in contrast to three other deep learning models deep belief network, ensemble, and long short-term memory. A multi-layer perceptron based performance evaluation of the proposed model obtained an accuracy of 99.47%, which shows a high level of accuracy in detecting cross-site scripting attacks.</p>
@@ -59,7 +59,7 @@
 ### 3. Statically Identifying XSS using Deep Learning
 - DOI: https://doi.org/10.1016/j.scico.2022.102810
 - Cited By: 1
-- PDF: [Download]()
+- PDF: [Download](https://github.com/Habibu-R-ahman/Reseach-on-XSS-/blob/main/PDF/SECRYPT_2021_53_CR%20(1).pdf)
 - <details>
   <summary>Summary</summary>
   <p>This work explores static approaches to detect XSS vulnerabilities using neural networks. We compare two different code representations based on Natural Language Processing (NLP) and Programming Language Processing (PLP) and experiment with models based on different neural network architectures for static analysis detection in PHP and Node.js. We train and evaluate the models using synthetic databases. Using the generated PHP and Node.js databases, we compare our results with three well-known static analyzers for PHP code, ProgPilot, Pixy, RIPS, and a known scanner for Node.js, AppScan static mode. Our analyzers using neural networks overperform the results of existing tools in all cases.</p>
