@@ -33,17 +33,17 @@
 - [Noxes: A client-side solution for mitigating cross-site scripting attacks](#intro31)
 
 ## DataSet
-- 1. [Portswigger XSS Cheatsheet](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/Dataset/cheat-sheet.pdf)
-- 2. [OWASP Cheatsheet for XSS](https://gist.github.com/sseffa/11031135)
-- 3. [1400+ Payload for XSS](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45)
-- 4. [Most updated 6600+ Payload for XSS](https://github.com/payloadbox/xss-payload-list/blob/master/Intruder/xss-payload-list.txt)
-- 5. [Aroud 500 Payload list](https://gist.github.com/dave5623/2fe3013686e7ee1bc9324512055e146a)
-- 6. [Aroud 500+ Payload list](https://github.com/pgaijin66/XSS-Payloads/blob/master/payload/payload.txt)
-- 7. [Huge XSS Payload from netsec.expert](https://github.com/ihebski/XSS-Payloads)
-- 8. [Lot of Payload with Description](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/README.md)
-- 9. [Training + Testiong data ](https://github.com/fmereani/Cross-Site-Scripting-XSS/tree/master/XSSDataSets)
-- 10. [256GB Dataset!!!](https://kilthub.cmu.edu/articles/dataset/DOM_XSS_Web_Vulnerability_Dataset/13870256)
-- 11. [NetFlow Dataset Collection!](https://staff.itee.uq.edu.au/marius/NIDS_datasets/)
+- [Portswigger XSS Cheatsheet](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/Dataset/cheat-sheet.pdf)
+- [OWASP Cheatsheet for XSS](https://gist.github.com/sseffa/11031135)
+- [1400+ Payload for XSS](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45)
+- [Most updated 6600+ Payload for XSS](https://github.com/payloadbox/xss-payload-list/blob/master/Intruder/xss-payload-list.txt)
+- [Aroud 500 Payload list](https://gist.github.com/dave5623/2fe3013686e7ee1bc9324512055e146a)
+- [Aroud 500+ Payload list](https://github.com/pgaijin66/XSS-Payloads/blob/master/payload/payload.txt)
+- [Huge XSS Payload from netsec.expert](https://github.com/ihebski/XSS-Payloads)
+- [Lot of Payload with Description](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/README.md)
+- [Training + Testiong data ](https://github.com/fmereani/Cross-Site-Scripting-XSS/tree/master/XSSDataSets)
+- [256GB Dataset!!!](https://kilthub.cmu.edu/articles/dataset/DOM_XSS_Web_Vulnerability_Dataset/13870256)
+- [NetFlow Dataset Collection!](https://staff.itee.uq.edu.au/marius/NIDS_datasets/)
 
 ## DEEP LEARNING METHODS
 
