@@ -33,14 +33,14 @@
 - [Noxes: A client-side solution for mitigating cross-site scripting attacks](#intro31)
 
 ## DDOS
-- [A novel feature-based framework enabling multi-type DDoS attacks detection]()
-- [Detection of Reduction-of-Quality DDoS Attacks Using Fuzzy Logic and Machine Learning Algorithms]()
-- [Enhancing secure cloud computing environment by Detecting DDoS attack using fuzzy logic]()
-- [Enhancing DDoS Flood Attack Detection via Intelligent Fuzzy Logic]()
-- [Detecting flooding based DoS attack in cloud computing environment using covariance matrix approach]()
-- [Method of Construction of Fuzzy Tree of Solutions for Network Protection Against DoS-Attacks]()
-- [A Fuzzy Logic based Defense Mechanism against Distributed Denial of Service Attack in Cloud Computing Environment]()
-- [Protection From Distributed Denial of Service Attack Using Fuzzy Logic]()
+- [A novel feature-based framework enabling multi-type DDoS attacks detection](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/PDF/DDOS/Article_ANovelFeature-basedFrameworkEn.pdf)
+- [Detection of Reduction-of-Quality DDoS Attacks Using Fuzzy Logic and Machine Learning Algorithms](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/PDF/DDOS/Detection%20of%20Reduction-of-Quality%20DDoS.pdf)
+- [Enhancing secure cloud computing environment by Detecting DDoS attack using fuzzy logic](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/PDF/DDOS/Enhancing%20secure%20cloud%20computing.pdf)
+- [Enhancing DDoS Flood Attack Detection via Intelligent Fuzzy Logic](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/PDF/DDOS/Enhancing%20DDoS%20Flood%20Attack%20Detection%20via%20Intelligent.pdf)
+- [Detecting flooding based DoS attack in cloud computing environment using covariance matrix approach](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/PDF/DDOS/Detecting%20flooding%20based%20DoS%20attack%20in%20cloud%20computing%20environ.pdf)
+- [Method of Construction of Fuzzy Tree of Solutions for Network Protection Against DoS-Attacks](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/PDF/DDOS/Method%20of%20Construction%20of%20Fuzzy%20Tree.pdf)
+- [A Fuzzy Logic based Defense Mechanism against Distributed Denial of Service Attack in Cloud Computing Environment](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/PDF/DDOS/A%20Fuzzy%20Logic%20based%20Defense%20Mechanism%20against.pdf)
+- [Protection From Distributed Denial of Service Attack Using Fuzzy Logic](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/PDF/DDOS/Protection%20From%20Distributed%20Denial%20of%20Service%20Attack%20Using%20Fuzzy%20Logic.pdf)
 - 
 
 
