@@ -42,7 +42,8 @@
 - [A Fuzzy Logic based Defense Mechanism against Distributed Denial of Service Attack in Cloud Computing Environment](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/PDF/DDOS/A%20Fuzzy%20Logic%20based%20Defense%20Mechanism%20against.pdf)
 - [Protection From Distributed Denial of Service Attack Using Fuzzy Logic](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/PDF/DDOS/Protection%20From%20Distributed%20Denial%20of%20Service%20Attack%20Using%20Fuzzy%20Logic.pdf)
 - 
-
+## DDOS TOOLS
+- [MHDDoS - DDoS Attack Script With 56 Methods](https://github.com/MatrixTM/MHDDoS)
 
 ## DataSet for XSS
 - [Portswigger XSS Cheatsheet](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/Dataset/cheat-sheet.pdf)
