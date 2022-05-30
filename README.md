@@ -1,4 +1,4 @@
-## Contents
+## XSS
 
 - [An implementation of real-time detection of cross-site scripting attacks on cloud-based web applications using deep learning](#intro1)
 - [DeepXSS: Cross Site Scripting Detection Based on Deep Learning](#intro2) 
@@ -32,7 +32,19 @@
 - [XSSDS: Server-Side Detection of Cross-Site Scripting Attacks](#intro30)
 - [Noxes: A client-side solution for mitigating cross-site scripting attacks](#intro31)
 
-## DataSet
+## DDOS
+- [A novel feature-based framework enabling multi-type DDoS attacks detection]()
+- [Detection of Reduction-of-Quality DDoS Attacks Using Fuzzy Logic and Machine Learning Algorithms]()
+- [Enhancing secure cloud computing environment by Detecting DDoS attack using fuzzy logic]()
+- [Enhancing DDoS Flood Attack Detection via Intelligent Fuzzy Logic]()
+- [Detecting flooding based DoS attack in cloud computing environment using covariance matrix approach]()
+- [Method of Construction of Fuzzy Tree of Solutions for Network Protection Against DoS-Attacks]()
+- [A Fuzzy Logic based Defense Mechanism against Distributed Denial of Service Attack in Cloud Computing Environment]()
+- [Protection From Distributed Denial of Service Attack Using Fuzzy Logic]()
+- 
+
+
+## DataSet for XSS
 - [Portswigger XSS Cheatsheet](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/Dataset/cheat-sheet.pdf)
 - [OWASP Cheatsheet for XSS](https://gist.github.com/sseffa/11031135)
 - [1400+ Payload for XSS](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45)
