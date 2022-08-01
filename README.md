@@ -58,6 +58,8 @@
 - [256GB Dataset!!!](https://kilthub.cmu.edu/articles/dataset/DOM_XSS_Web_Vulnerability_Dataset/13870256)
 - [NetFlow Dataset Collection!](https://staff.itee.uq.edu.au/marius/NIDS_datasets/)
 
+## DATASET REVIEW
+- [Report on Various Dataset ](https://github.com/Habibu-R-ahman/Research-on-XSS-/raw/main/Dataset/data.pdf)
 ## DEEP LEARNING METHODS
 
 <a name="intro1"></a>
